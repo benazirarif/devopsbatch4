@@ -3,4 +3,5 @@ welcome to devops github class... V3
 =======
 welcome to devops github class... V4
 
->>>>>>> Stashed changes
+>>>>>>> Stashed changes  
+merge conflict v6
